@@ -1,6 +1,6 @@
 # PROMPTNEST
 
-![PROMPTNEST](https://raw.githubusercontent.com/mekaiser/slack-clone/main/src/assets/images/slack-clone.jpg)
+![PROMPTNEST](https://raw.githubusercontent.com/mekaiser/promptnest/main/public/github-preview.png)
 
 Promptnest is a full-stack web-application for modern world to discover, create and share creative AI prompts.
 
